@@ -1,6 +1,6 @@
-# Productivity App - Flutter MVP
+# Minimal Focus App - Flutter MVP
 
-A minimal productivity app built with Flutter focused on focus management and habit tracking.
+A minimal focus app built with Flutter centered on concentration, habit tracking, and productivity.
 
 ## Features
 

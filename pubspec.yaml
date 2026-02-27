@@ -1,5 +1,5 @@
-name: productivity_app
-description: A minimal productivity app with focus timer and habit tracking
+name: minimal_focus_app
+description: A minimal focus app with productivity features including Pomodoro timer, habit tracking, and daily goals
 publish_to: 'none'
 version: 1.0.0+1
 
